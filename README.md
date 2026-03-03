@@ -32,7 +32,7 @@ Hi, I'm AIBible416, a developer passionate about building impactful projects. Th
 
 ## 📫 Contact
 - **GitHub**: [AIBible416](https://github.com/AIBible416)
-- **Email**: aibible416@proton.me
+- **Email**: aibible416@proton.me 
 - **LinkedIn**: [AIBible416](https://linkedin.com/in/aibible416)
 
 ---
